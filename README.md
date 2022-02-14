@@ -1,18 +1,17 @@
 <h1 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-kesharwani&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kesharwani" />  </p>
 <img  src="introduction.png" alt="introduction">
-<h1 align="center">Machine Learning Enthusiast </h1>
+<h1 align="center">I am a Machine Learning Enthusiast </h1>
 
-<img align="right" width="255" src="programmer.gif" alt="programmer">
+<img align="right" width="260" src="programmer.gif" alt="programmer">
 
-&nbsp;
-- <img src="Developer.gif" alt="GIF" width="20" /> &nbsp; I’m currently working on **Machine Leaning using AWS**
+ <img src="Developer.gif" alt="GIF" width="20" /> &nbsp; I’m currently exploring domain of **Machine Leaning**
 
-- <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to **automate things in Python and explore new ML Algorithms**
+ <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to **automate things in Python and explore new ML Algorithms**
 
-- <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Python, AWS, Machine Learning**
-
-&nbsp;
+ <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Python, AWS, Machine Learning implementation using cloud**
+	
+ <img alt="GIF" src="letterbox.gif" width="20" /> &nbsp; Contact me through an **<a href = "mailto:harshitkesharwani18@gmail.com">e-mail</a>**
 <hr>
 
 <!-- connect with me -->
