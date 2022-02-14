@@ -1,7 +1,7 @@
 <h1 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-kesharwani&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kesharwani" />  </p>
 <img  src="introduction.png" alt="introduction">
-<h1 align="center">Machine Learning Ethusiast </h1>
+<h1 align="center">Machine Learning Enthusiast </h1>
 
 <img align="right" width="255" src="programmer.gif" alt="programmer">
 
