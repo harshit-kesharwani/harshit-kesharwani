@@ -49,5 +49,5 @@
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=harshit-kesharwani&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" alt="Harshit" /><img align="left" alt="typing-cat" width="250" src="typing-cat.gif"></p>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=RithyaReddy&theme=flag-india" alt="Harshit"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=harshit-kesharwani&theme=flag-india" alt="Harshit"/><img align="center" alt="curious" width="250" src="curious.gif"></p>
 <hr>
