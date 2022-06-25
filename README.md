@@ -9,7 +9,7 @@
 
  <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to **automate things in Python and explore new ML Algorithms**
 
- <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Python, AWS, Machine Learning implementation using cloud**
+ <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Python,Google Cloud, AWS, Machine Learning implementation using cloud**
 	
  <img alt="GIF" src="letterbox.gif" width="20" /> &nbsp; Contact me through an **<a href = "mailto:harshitkesharwani18@gmail.com">e-mail</a>**
 <hr>
