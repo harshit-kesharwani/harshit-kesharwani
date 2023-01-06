@@ -1,11 +1,11 @@
 <h1 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-kesharwani&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kesharwani" />  </p>
 <img  src="introduction.png" alt="introduction">
-<h1 align="center">I am a Machine Learning Enthusiast </h1>
+<h1 align="center">I am a Cloud Computing Enthusiast</h1>
 
 <img align="right" width="260" src="programmer.gif" alt="programmer">
 
- <img src="Developer.gif" alt="GIF" width="20" /> &nbsp; I’m currently exploring domain of **Machine Leaning**
+ <img src="Developer.gif" alt="GIF" width="20" /> &nbsp; I’m currently exploring domain of **Cloud**
 
  <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to **automate things in Python and explore new ML Algorithms**
 
