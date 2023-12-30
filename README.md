@@ -1,15 +1,15 @@
 <h1 align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshit-kesharwani&label=Profile%20views&color=0e75b6&style=flat" alt="harshit-kesharwani" />  </p>
 <img  src="introduction.png" alt="introduction">
-<h1 align="center">I am a Cloud Computing Enthusiast</h1>
+<h1 align="center">I am Data Engineering & Cloud Enthusiast</h1>
 
 <img align="right" width="260" src="programmer.gif" alt="programmer">
 
- <img src="Developer.gif" alt="GIF" width="20" /> &nbsp; I’m currently exploring domain of **Cloud**
+ <img src="Developer.gif" alt="GIF" width="20" /> &nbsp; I’m currently exploring domain of **Data Engineering**
 
- <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to **automate things in Python and explore new ML Algorithms**
+ <img alt="GIF" src="hyperkitty.gif" width="20" /> &nbsp;&nbsp; I like to **automate things in Python and explore different Data Engineering tools**
 
- <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Python,Google Cloud, AWS, Machine Learning implementation using cloud**
+ <img alt="GIF" src="message.gif" width="20" /> &nbsp; Ask me about **Python, Databricks, Pyspark, Azure Data Factory, Google Cloud, AWS, Azure**
 	
  <img alt="GIF" src="letterbox.gif" width="20" /> &nbsp; Contact me through an **<a href = "mailto:harshitkesharwani18@gmail.com">e-mail</a>**
 <hr>
